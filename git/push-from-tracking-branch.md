@@ -1,4 +1,4 @@
-## local에 존재하지 않는 remote branch를 가져와서 작업 후 PR 생성하기
+## Local에 존재하지 않는 remote branch를 가져와서 작업 후 PR 생성하기
 ### Remote Branch 가져오기
 ```
 git checkout -t origin/remote_branch
