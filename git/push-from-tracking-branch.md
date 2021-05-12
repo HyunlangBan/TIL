@@ -17,6 +17,7 @@ git checkout -t origin/remote_branch
 
 ### 작업내용 추가하기
 - 가져온 브랜치에서 새로운 feature branch 생성
+- 기존에 하던 방식과는 다르게 맨 끝에 기준이 되는 branch를 적어주는 것에 주의‼️
 ```
 git checkout -b feature/new_feature remote_branch
 ```
