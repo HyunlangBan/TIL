@@ -11,9 +11,9 @@ git checkout -t origin/remote_branch
 ![Untitled](https://user-images.githubusercontent.com/45524783/117829697-f9810280-b2ad-11eb-9a1c-de5d34a3ce51.png)
 
 ### 참고
-- 리모트 브랜치 확인하기: git branch -r 
-- 로컬 브랜치 확인: git remote -l
-- 리모트+로컬 브랜치 확인: git retmote -a
+- 리모트 브랜치 확인하기: `git branch -r`
+- 로컬 브랜치 확인: `git branch -l`
+- 리모트+로컬 브랜치 확인: `git branch -a`
 
 ### 작업내용 추가하기
 - 가져온 브랜치에서 새로운 feature branch 생성
