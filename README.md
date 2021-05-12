@@ -4,5 +4,7 @@
 - 이곳에 정리한 내용들은 정확하지 않을 수 있습니다.
 - 시작일: 2021. 05. 11
 ---
+## Python
+- [Packing and Unpacking](https://github.com/HyunlangBan/TIL/blob/main/python/packing_unpacking.md)
 ## Git
 - [Local에 존재하지 않는 Remote Branch를 가져와서 작업 후 PR 생성하기](https://github.com/HyunlangBan/TIL/blob/main/git/push-from-tracking-branch.md)
