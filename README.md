@@ -8,4 +8,4 @@
 - [Packing and Unpacking](https://github.com/HyunlangBan/TIL/blob/main/python/packing_unpacking.md)
 - [Iterable, Iterator and For Loop](https://github.com/HyunlangBan/TIL/blob/main/python/iterables_iterator_for_loop.md)
 ## Git
-- [Local에 존재하지 않는 Remote Branch를 가져와서 작업 후 PR 생성하기](https://github.com/HyunlangBan/TIL/blob/main/git/push-from-tracking-branch.md)
+- [Create Pull Requests to Tracking Branch](https://github.com/HyunlangBan/TIL/blob/main/git/create-pull-request-to-tracking-branch.md)
