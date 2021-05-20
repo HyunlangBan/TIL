@@ -9,3 +9,4 @@
 - [Iterable, Iterator and For Loop](https://github.com/HyunlangBan/TIL/blob/main/python/iterables_iterator_for_loop.md)
 ## Git
 - [Create Pull Requests to Tracking Branch](https://github.com/HyunlangBan/TIL/blob/main/git/create-pull-request-to-tracking-branch.md)
+- [Synchronize Local Branch With Remote Branch](https://github.com/HyunlangBan/TIL/blob/main/git/sync-local-branch-remote-branch.md)
