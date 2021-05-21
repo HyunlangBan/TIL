@@ -10,3 +10,5 @@
 ## Git
 - [Create Pull Requests to Tracking Branch](https://github.com/HyunlangBan/TIL/blob/main/git/create-pull-request-to-tracking-branch.md)
 - [Synchronize Local Branch With Remote Branch](https://github.com/HyunlangBan/TIL/blob/main/git/sync-local-branch-remote-branch.md)
+## Django
+- [Teesting  Unmanaged Databases](https://github.com/HyunlangBan/TIL/blob/main/django/testing-unmanaged-databases.md)
