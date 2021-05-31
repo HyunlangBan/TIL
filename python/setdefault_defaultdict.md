@@ -116,5 +116,7 @@ print(fruits.data)
 ```
 - `add` 코드는 data 딕셔너리에 있는 키에 접근하면 항상 기존 인스턴스가 반환된다.
 
+
+---
 ### Reference
 - 파이썬 코딩의 기술(Effective Python)
