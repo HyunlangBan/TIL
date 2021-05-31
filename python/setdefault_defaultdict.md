@@ -92,7 +92,7 @@ print(fruits.data)
 >>>140233721796224
 >>>{'red': ['apple', 'cherry'], 'yellow': ['banana', 'pineapple'], 'orange': ['orange']}
 ```
-- 주어진 색이 딕셔너리에 있든 없든 관계없이 호출할때마다 새로 인스턴스를 만들기때문에 효율적이지 않다
+- 주어진 색이 딕셔너리에 있든 없든 관계없이 호출할때마다 새로 인스턴스를 만들기 때문에 효율적이지 않다
 
 
 ### defaultdict
