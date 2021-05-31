@@ -51,7 +51,7 @@ print(red_fruits)
 >>>['apple', 'cherry']
 print(fruits)
 >>>{'red': ['apple', 'cherry'], 'yellow': ['banana'], 'pink': ['peach']}
-## key가 있는 경우에는 변경되지 않는다.
+## key가 있는 경우에는 기존값이 디폴트 값으로 변경되지 않는다.
 
 fruits.setdefault('apricot', pink_fruits)
 print(fruits)
@@ -67,7 +67,8 @@ print(fruits)
 - 만약 가독성과 효율성을 향상시키고자 디폴트 값에 사용하는 객체를 재활용한다면 이상한 동작을 하게되고 버그가 발생할 것이다.
   -> `pink`, `apricot`의 경우
 - `fruits.setdefault(color, []).append(fruit)`로 더 간단하게 쓸 수도 있다.
-- 
+
+
 ## 내부 상태에서 원소가 없는 경우를 처리할 때는 setdefult보다 defaultdict를 사용하라
 ### setdefault
 ```python
