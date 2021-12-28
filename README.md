@@ -20,3 +20,5 @@
 ## Django
 - [Teesting  Unmanaged Databases](https://github.com/HyunlangBan/TIL/blob/main/django/testing-unmanaged-databases.md)
 - [HttpResponse vs. Render](https://github.com/HyunlangBan/TIL/blob/main/django/testing-unmanaged-databases.md)
+## Bash
+- [Command Lime Basics](https://github.com/HyunlangBan/TIL/blob/main/bash/command_line_basics.md)
