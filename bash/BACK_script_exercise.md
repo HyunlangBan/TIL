@@ -33,7 +33,7 @@ echo "last line" ## Will it be executed in the current shell? -- NO. exit 이전
 2. shell builtins
     - `type cd` → cd is a shell builtin
 3. alias
-    - `type lf` → lf is aliased ti `ls -Flha`
+    - `type lf` → lf is an alias for `ls -Flha`
 
 ## Alias in Bash
 
